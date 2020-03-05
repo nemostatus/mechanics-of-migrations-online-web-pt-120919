@@ -1,1 +1,1 @@
-class CreateArtists < AcitveRecord
+class CreateArtists < AcitveRecord::Migration[5.2]
